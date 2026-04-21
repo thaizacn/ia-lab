@@ -51,6 +51,7 @@ ia-lab/
 Esse projeto foi feito com muito amor e poderá ser utilizado como veículo de estudo por qualquer um que, assim como eu, tenha o desejo genuíno por questionar como fazemos para fazermos melhor. Nós conseguimos. Juntos.
 
 ⌨️ com ❤️ por Thaiza Ferloni
+
 ---
 
 **Última atualização:** Abril 2026  
